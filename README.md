@@ -11,8 +11,7 @@
   <a href="https://github.com/BerkayC-HardW">
     <img src="https://img.shields.io/badge/GitHub-BerkayC--HardW-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <!-- LinkedIn profil linkini aşağıdaki tırnak içine yapıştırabilirsin -->
-  <a href="https://www.linkedin.com/sberkayc">
+  <a href="https://www.linkedin.com/in/sberkayc">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
